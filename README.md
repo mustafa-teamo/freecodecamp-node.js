@@ -1,67 +1,67 @@
 # freecodecamp-node.js
 code walk through of the 8 hour course
 ## Sections Covered
-What Is Node.js?
-Browser VS Server
-How to Install Node
-The Node REPL
-Cli
-Source Code
-Globals
-Modules Setup
-First Module
-Alternative Syntax
-Mind Grenade
-Built-In Module Intro
-Os Module
-Path Module
-Fs Module (Sync)
-Fs Module (Async)
-Sync Vs Async
-Http Intro
-Http Module (Setup)
-Http Module (More Features)
-NPM Info
-NPM Command
-First Package
-Share Code
-Nodemon
-Uninstall
-Global Install
-Package-Lock.Json
-Important Topics Intro
-Event Loop
-Event Loop Slides
-Event Loop Code Examples
-Async Patterns - Blocking Code
-Async Patterns - Setup Promises
-Async Patterns - Refactor To Async
-Async Patterns - Node's Native Option
-Events Info
-Events Emitter - Code Example
-Events Emitter - Additional Info
-Events Emitter - Http Module Example
-Streams Intro
-Streams - Read File
-Streams - Additional Info
-Streams - Http Example
-End Of Node Tutorial Module
-HTTP Request/Response Cycle
-Http Messages
-Starter Project Install
-Starter Overview
-Http Basics
-Http - Headers
-Http - Request Object
-Http - Html File
-Http - App Example
-Express Info
-Express Basics
-Express - App Example
-Express - All Static
-API Vs SSR
-JSON Basics
-Params, Query String - Setup
-Route Params
-Params - Extra Info
-Query String
+	1.	What Is Node.js?
+	2.	Browser VS Server
+	3.	How to Install Node
+	4.	The Node REPL
+	5.	Cli
+	6.	Source Code
+	7.	Globals
+	8.	Modules Setup
+	9.	First Module
+	10.	Alternative Syntax
+	11.	Mind Grenade
+	12.	Built-In Module Intro
+	13.	Os Module
+	14.	Path Module
+	15.	Fs Module (Sync)
+	16.	Fs Module (Async)
+	17.	Sync Vs Async
+	18.	Http Intro
+	19.	Http Module (Setup)
+	20.	Http Module (More Features)
+	21.	NPM Info
+	22.	NPM Command
+	23.	First Package
+	24.	Share Code
+	25.	Nodemon
+	26.	Uninstall
+	27.	Global Install
+	28.	Package-Lock.Json
+	29.	Important Topics Intro
+	30.	Event Loop
+	31.	Event Loop Slides
+	32.	Event Loop Code Examples
+	33.	Async Patterns - Blocking Code
+	34.	Async Patterns - Setup Promises
+	35.	Async Patterns - Refactor To Async
+	36.	Async Patterns - Node's Native Option
+	37.	Events Info
+	38.	Events Emitter - Code Example
+	39.	Events Emitter - Additional Info
+	40.	Events Emitter - Http Module Example
+	41.	Streams Intro
+	42.	Streams - Read File
+	43.	Streams - Additional Info
+	44.	Streams - Http Example
+	45.	End Of Node Tutorial Module
+	46.	HTTP Request/Response Cycle
+	47.	Http Messages
+	48.	Starter Project Install
+	49.	Starter Overview
+	50.	Http Basics
+	51.	Http - Headers
+	52.	Http - Request Object
+	53.	Http - Html File
+	54.	Http - App Example
+	55.	Express Info
+	56.	Express Basics
+	57.	Express - App Example
+	58.	Express - All Static
+	59.	API Vs SSR
+	60.	JSON Basics
+	61.	Params, Query String - Setup
+	62.	Route Params
+	63.	Params - Extra Info
+	64.	Query String
