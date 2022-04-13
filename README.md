@@ -65,6 +65,7 @@ code walk through of the 8 hour course
 	62.	Route Params
 	63.	Params - Extra Info
 	64.	Query String
+### 6 hours of content completed
 ## Sections Remaining
 	1.	Middleware - Setup
 	2.	APP.USE
