@@ -65,3 +65,18 @@ code walk through of the 8 hour course
 	62.	Route Params
 	63.	Params - Extra Info
 	64.	Query String
+## Sections Remaining
+	1.	Middleware - Setup
+	2.	APP.USE
+	3.	Multiple Middleware Functions
+	4.	Additional Middleware Info
+	5.	Methods - GET
+	6.	Methods - POST
+	7.	Methods - POST (Form Example)
+	8.	Methods - POST (Javascript Example)
+	9.	Install Postman
+	10.	Methods - PUT
+	11.	Methods - DELETE
+	12.	Express Router - Setup
+	13.	Express Router - Controllers
+# Finish
